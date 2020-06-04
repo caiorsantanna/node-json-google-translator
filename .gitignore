@@ -1,0 +1,5 @@
+i18n/*
+!i18n/pt-example.json
+node_modules/
+*.txt
+translator.json

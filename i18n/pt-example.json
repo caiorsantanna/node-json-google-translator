@@ -1,0 +1,8 @@
+{
+	"BUTTONS": {
+		"IMPORT": "Importar template",
+		"EXPORT_CSV": "Exportar em CSV",
+		"EXPORT_EXCEL": "Exportar em Excel",
+		"PRINT": "Imprimir"
+	}
+}
