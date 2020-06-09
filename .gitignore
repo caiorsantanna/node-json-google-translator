@@ -1,5 +1,7 @@
 i18n/*
 !i18n/pt-example.json
+transformer/*
+!transformer/object-exemple.js
 node_modules/
 *.txt
 translator.json
